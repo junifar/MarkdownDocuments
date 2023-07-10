@@ -2,43 +2,94 @@
 
 ```mermaid
 flowchart TD
-    KRM[Kuramon]-->TSM[Tsumemon]
-    KRM-->PGM[Pagumon]
-    KRM-->ARC[Arcadiamon In-Tr.]
+    KRM[Kuramon]
+    TSM[Tsumemon]
+    PGM[Pagumon]
+    ARC[Arcadiamon In-Tr.]
+    PBM[Pabumon]
+    TNM[Tanemon]
+    YKM[Yokomon]
+    MTM[Motimon]
+    PNM[Punimon]
+    TSN[Tsunomon]
+    PNM[Punimon]
+    NYA[Nyaromon]
+    GBM[Gabumon]
+    GBL[Gabumon Blk]
+    GBN[Goblimon]
+    GBM[Gabumon]
+    GBL[Gabumon Blk]
+    GBN[Goblimon]
+    BTM[Botamon]
+    KOR[Koromon]
+    WNY[Wanyamon]
+    AGU[Agumon]
+    GUI[Guilmon]
+    TOA[ToyAgumon]
+    HCK[Hackmon]
+    DRC[Dracomon]
+    SHT[Shoutmon]
+    GAO[Gaomon]
+    KUD[Kudamon]
+    DOR[Dorumon]
+    RYD[Ryudamon]
+    PYM[Poyomon]
+    TOK[Tokomon]
+    BUK[Bukamon]
+    PAT[Patamon]
+    FAL[Falcomon]
+    HAW[Hawkmon]
+    LUC[Lucemon]
+    SIS[Sistermon Blanc]
+    OTA[Otamamon]
+    GOM[Gomamon]
+    SYA[Syakomon]
+    BET[Betamon]
+    
+    KRM-->TSM
+    KRM-->PGM
+    KRM-->ARC
 
-    PBM[Pabumon]-->TNM[Tanemon]
-    PBM-->YKM[Yokomon]
-    PBM-->MTM[Motimon]
+    PBM-->TNM
+    PBM-->YKM
+    PBM-->MTM
 
-    PNM[Punimon]-->TSN[Tsunomon]
-    PNM[Punimon]-->NYA[Nyaromon]
+    PNM-->TSN
+    PNM-->NYA
 
-    BTM[Botamon]-->KOR[Koromon]
-    BTM-->WNY[Wanyamon]
+    TSN-->GBM
+    TSN-->GBL
+    TSN-->GBN
+    TSN-->GBM
+    TSN-->GBL
+    TSN-->GBN
 
-    KOR-->AGU[Agumon]
-    KOR-->GUI[Guilmon]
-    KOR-->TOA[ToyAgumon]
-    KOR-->HCK[Hackmon]
-    KOR-->DRC[Dracomon]
-    KOR-->SHT[Shoutmon]
+    BTM-->KOR
+    BTM-->WNY
 
-    WNY-->GAO[Gaomon]
-    WNY-->KUD[Kudamon]
-    WNY-->DOR[Dorumon]
-    WNY-->RYD[Ryudamon]
+    KOR-->AGU
+    KOR-->GUI
+    KOR-->TOA
+    KOR-->HCK
+    KOR-->DRC
+    KOR-->SHT
 
-    PYM[Poyomon]-->TOK[Tokomon]
-    PYM-->BUK[Bukamon]
+    WNY-->GAO
+    WNY-->KUD
+    WNY-->DOR
+    WNY-->RYD
 
-    TOK-->PAT[Patamon]
-    TOK-->FAL[Falcomon]
-    TOK-->HAW[Hawkmon]
-    TOK-->LUC[Lucemon]
-    TOK-->SIS[Sistermon Blanc]
+    PYM-->TOK
+    PYM-->BUK
 
-    BUK-->OTA[Otamamon]
-    BUK-->GOM[Gomamon]
-    BUK-->SYA[Syakomon]
-    BUK-->BET[Betamon]
+    TOK-->PAT
+    TOK-->FAL
+    TOK-->HAW
+    TOK-->LUC
+    TOK-->SIS
+
+    BUK-->OTA
+    BUK-->GOM
+    BUK-->SYA
+    BUK-->BET
 ```
