@@ -23,6 +23,11 @@ flowchart TD
     KOR-->DRC[Dracomon]
     KOR-->SHT[Shoutmon]
 
+    WNY-->GAO[Gaomon]
+    WNY-->KUD[Kudamon]
+    WNY-->DOR[Dorumon]
+    WNY-->RYD[Ryudamon]
+
     PYM[Poyomon]-->TOK[Tokomon]
     PYM-->BUK[Bukamon]
 
