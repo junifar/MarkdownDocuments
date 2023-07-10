@@ -16,9 +16,15 @@ flowchart TD
     BTM[Botamon]-->KOR[Koromon]
     BTM-->WNY[Wanyamon]
 
+    KOR-->AGU[Agumon]
+    KOR-->GUI[Guilmon]
+    KOR-->TOA[ToyAgumon]
+    KOR-->HCK[Hackmon]
+    KOR-->DRC[Dracomon]
+    KOR-->SHT[Shoutmon]
+
     PYM[Poyomon]-->TOK[Tokomon]
     PYM-->BUK[Bukamon]
-
 
     TOK-->PAT[Patamon]
     TOK-->FAL[Falcomon]
