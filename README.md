@@ -25,4 +25,9 @@ flowchart TD
     TOK-->HAW[Hawkmon]
     TOK-->LUC[Lucemon]
     TOK-->SIS[Sistermon Blanc]
+
+    BUK-->OTA[Otamamon]
+    BUK-->GOM[Gomamon]
+    BUK-->SYA[Syakomon]
+    BUK-->BET[Betamon]
 ```
