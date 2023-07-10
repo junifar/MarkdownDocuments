@@ -57,9 +57,6 @@ flowchart TD
     TSN-->GBM
     TSN-->GBL
     TSN-->GBN
-    TSN-->GBM
-    TSN-->GBL
-    TSN-->GBN
 
     BTM-->KOR
     BTM-->WNY
