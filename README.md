@@ -345,24 +345,60 @@ flowchart TD
     340[Omnimon NX]
     341[Gallantmon NX]
 
+    1-->6
+    6-->20
+    20-->69
+    69-->142
+    69-->169
+    142-->218
+    142-->260
+    142-->261
+    169-->238
+    169-->260
+    169-->261
+    260-->310
+    218-->311
+
+```
+
+```mermaid
+flowchart TD
+    1[Kuramon]
+    6[Arcadiamon In-Tr.]
+    10[Tsumemon]
+    13[Pagumon]
+    20[Arcadiamon Rookie]
+    69[Arcadiamon Champion]
+    142[Arcadiamon Ultimate]
+    156[Gigadramon]
+    169[SkullSatamon]
+    218[Arcadiamon Mega]
+    238[GranDracmon]
+    260[Diaboromon]
+    261[Creepymon]
+    239[GroundLocomon]
+    310[Armageddemon]
+    311[Arcadiamon Ultra]
+
+    1-->6
     1-->10
     1-->13
-    1-->6
-    2-->8
-    2-->14
-    2-->16
-    3-->9
-    3-->12
-    4-->7
-    4-->17
-    5-->11
-    5-->15
     6-->20
-    7-->18
-    7-->28
-    7-->38
-    7-->42
-    7-->256
-    7-->327
+    10-->19
+    10-->88
+    20-->69
+    69-->142
+    69-->169
+    88-->156
+    142-->218
+    142-->260
+    142-->261
+    156-->239
+    169-->238
+    169-->260
+    169-->261
+    218-->311
+    260-->310
+
 ```
 
