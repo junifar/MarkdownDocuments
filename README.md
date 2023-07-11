@@ -374,11 +374,14 @@ flowchart TD
     142[Arcadiamon Ultimate]
     156[Gigadramon]
     169[SkullSatamon]
+    202[WarGrowlmon]
     218[Arcadiamon Mega]
+    232[ChaosGallantmon]
     238[GranDracmon]
     255[Darkdramon]
     260[Diaboromon]
     261[Creepymon]
+    262[Gallantmon]
     267[Dorugoramon]
     233[Chaosdramon]
     239[GroundLocomon]
@@ -388,6 +391,7 @@ flowchart TD
     310[Armageddemon]
     311[Arcadiamon Ultra]
     317[Chaosmon]
+    320[Gallantmon CM]
     332[Apocalymon]
 
     1-->6
@@ -400,6 +404,7 @@ flowchart TD
     69-->142
     69-->169
     88-->156
+    88-->202
     142-->218
     142-->260
     142-->261
@@ -412,8 +417,11 @@ flowchart TD
     169-->238
     169-->260
     169-->261
+    202-->232
+    202-->262
     218-->311
     260-->310
+    262-->320
     255-->317
     294-->233
     294-->332
