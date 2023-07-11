@@ -367,25 +367,35 @@ flowchart TD
     6[Arcadiamon In-Tr.]
     10[Tsumemon]
     13[Pagumon]
+    19[Agumon Blk]
     20[Arcadiamon Rookie]
     69[Arcadiamon Champion]
+    88[Growlmon]
     142[Arcadiamon Ultimate]
     156[Gigadramon]
     169[SkullSatamon]
     218[Arcadiamon Mega]
     238[GranDracmon]
+    255[Darkdramon]
     260[Diaboromon]
     261[Creepymon]
+    267[Dorugoramon]
+    233[Chaosdramon]
     239[GroundLocomon]
+    294[Machinedramon]
+    295[Megidramon]
+    299[MetalSeadramon]
     310[Armageddemon]
     311[Arcadiamon Ultra]
+    317[Chaosmon]
+    332[Apocalymon]
 
     1-->6
     1-->10
     1-->13
     6-->20
     10-->19
-    10-->88
+    19-->88
     20-->69
     69-->142
     69-->169
@@ -394,11 +404,19 @@ flowchart TD
     142-->260
     142-->261
     156-->239
+    156-->255
+    156-->267
+    156-->294
+    156-->295
+    156-->299
     169-->238
     169-->260
     169-->261
     218-->311
     260-->310
-
+    255-->317
+    294-->233
+    294-->332
+    299-->332
 ```
 
